@@ -18,7 +18,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url("../img/myfacelol.jpg");
+  background-image: url("../img/Login_Background2.jpeg");
   background-size: 400px 900px;
   background-repeat: repeat-x;
 }
@@ -139,6 +139,11 @@ dfn {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+}
+
+#login_box {
+    width: 400px;
+    margin: 0px auto;
 }
 
 /**
@@ -420,6 +425,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
 
 td,
 th {
